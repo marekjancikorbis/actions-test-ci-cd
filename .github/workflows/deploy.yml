@@ -21,4 +21,4 @@ jobs:
           projectId: github-actions-ci-cd-test
           channelId: live
           # Optionally add Force flag
-          force: true
+          # force: true
